@@ -6,6 +6,7 @@ MapReduce almost acts like a divide and conquer algorithm, by breaking down the 
 
 
 <u>References</u>
+
 Dean, J. and Ghemawat, S., 2004. MapReduce: Simplified data processing on large clusters.[online] Available at: https://static.usenix.org/publications/library/proceedings/osdi04/tech/full_papers/dean/dean.pdf [Accessed 21 June 2021].
 
 Leskovec, J., Rajaraman, A. and Ullman, J., 2014. 3rd ed. Cambridge: Cambridge University Press, pp.25-31. [online] Available at: http://infolab.stanford.edu/~ullman/mmds/ch2.pdf [Accessed 21 June 2021].
